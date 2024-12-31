@@ -86,22 +86,21 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <Logo />
-              <p className="text-blue-200 mt-4">The future of cricket entertainment</p>
+              <p className="text-blue-200 mt-4">The future of cricket entertainment. <></> <strong>#street-to-stadium </strong></p>
             </div>
             <div>
               <h4 className="font-semibold mb-4">Quick Links</h4>
               <ul className="space-y-2">
                 <li><a href="#teams" className="text-blue-200 hover:text-white">Teams</a></li>
                 <li><a href="#owners" className="text-blue-200 hover:text-white">Owners</a></li>
-                <li><a href="#schedule" className="text-blue-200 hover:text-white">Schedule</a></li>
                 <li><a href="#sponsors" className="text-blue-200 hover:text-white">Sponsors</a></li>
+                <li><a href="#schedule" className="text-blue-200 hover:text-white">Schedule</a></li>
               </ul>
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-blue-200">
                 <li>Email: info@isplcricket.in</li>
-                <li>Phone: +91 XXX XXX XXXX</li>
               </ul>
             </div>
             <div>
